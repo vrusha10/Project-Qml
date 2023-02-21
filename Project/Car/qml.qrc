@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MeterDisplay.qml</file>
+        <file>SecondWindow.qml</file>
+        <file>PersonDisplay.qml</file>
+    </qresource>
+    <qresource prefix="/Image">
+        <file>arrow_Left.png</file>
+        <file>arrow_Right.png</file>
+        <file>Battery.png</file>
+        <file>Blutooth.png</file>
+        <file>Call.png</file>
+        <file>Car.png</file>
+        <file>Car_Wallpaper1.jpg</file>
+        <file>Dashboard-removebg-preview.png</file>
+        <file>Deep BeamLight.png</file>
+        <file>Fm.png</file>
+        <file>fuel.png.png</file>
+        <file>fule (2).png</file>
+        <file>Horn.png</file>
+        <file>Music.png</file>
+        <file>Navigator.png</file>
+        <file>Needle.png</file>
+        <file>NeedleMaroon.png</file>
+        <file>NiddleFule.png</file>
+        <file>NiddleRpm.png</file>
+        <file>NiddleSpeed.png</file>
+        <file>NiddleTemp.png</file>
+        <file>Parking.png</file>
+        <file>seatbelt.png</file>
+        <file>Setting.png</file>
+        <file>Settings.png</file>
+        <file>Sterring.png</file>
+        <file>Temp.png.png</file>
+        <file>Temperature.png</file>
+        <file>Up Beamlight.png</file>
+        <file>Up&amp;DeepCombination.png</file>
+        <file>car_dasboardp.jpg</file>
+        <file>CarOrangeWallpaper.jpg</file>
+        <file>CMakeLists.txt</file>
+        <file>NGreen.png</file>
+        <file>NOrange.png</file>
+        <file>NRed.png</file>
+        <file>NYellow.png</file>
+        <file>DefaultW.jpg</file>
+        <file>GreenW.jpg</file>
+        <file>OrangeW.jpg</file>
+        <file>RedW.jpg</file>
+        <file>YellowW.jpg</file>
+    </qresource>
+    <qresource prefix="/Sound">
+        <file>car-horn-beep-beep-two-beeps-honk-honk-6188.wav</file>
+        <file>klakson-telolet-indonesian-big-bus-custom-horn-31303.wav</file>
+    </qresource>
+</RCC>
